@@ -11,7 +11,7 @@
 
 For Windows users:
 
-1. Download **DeltaFlightTracker-Setup.exe** from the link above
+1. Download **DeltaFlightTracker-Setup-Windows.exe** from the link above
 2. Run the installer
 3. Done! The app opens automatically
 
