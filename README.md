@@ -9,9 +9,18 @@
 
 ### [⬇️ Download Latest Version](../../releases/latest)
 
+For Windows users:
+
 1. Download **DeltaFlightTracker-Setup.exe** from the link above
 2. Run the installer
 3. Done! The app opens automatically
+
+For Mac users:
+
+1. Unzip DeltaFlightTracker-Mac.zip
+2. Double-click install_mac.command (one-time setup)
+3. Double-click run_mac.command to start
+4. Ctrl+C in Terminal to stop
 
 *No account needed. Runs entirely on your computer.*
 
