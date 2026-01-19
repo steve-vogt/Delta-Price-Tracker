@@ -2,9 +2,6 @@
 
 **Automatically track Delta flight prices and get notified when they drop.**
 
-<p align="center">
-  <img src="assets/logo.png" alt="Delta Price Tracker" width="120">
-</p>
 
 ---
 
