@@ -28,13 +28,6 @@
 - **Runs in background** – Minimizes to system tray
 - **100% free** – No ads, no subscriptions
 
----
-
-## 🖥️ Screenshots
-
-<p align="center">
-  <img src="assets/screenshot.png" alt="Screenshot" width="700">
-</p>
 
 ---
 
