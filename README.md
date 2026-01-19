@@ -113,5 +113,5 @@ For security. App Passwords are separate from your main password and can be revo
 ---
 
 <p align="center">
-  <sub>Version 2.1.0 • Not affiliated with Delta Air Lines, Inc.</sub>
+  <sub>Version 2.4.0 • Not affiliated with Delta Air Lines, Inc.</sub>
 </p>
